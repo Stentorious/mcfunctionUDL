@@ -10,5 +10,5 @@ Adjust the color in the Notepad++ "Language/User Defined Language/Define your la
 Add your custom namespace to the 8th keyword list group if you wish to have it highlighted
 
 # Upcoming Additions
-Support for more nbt tags
+Support for more nbt tags  
 Support for built in /place Jigsaws and Templates
