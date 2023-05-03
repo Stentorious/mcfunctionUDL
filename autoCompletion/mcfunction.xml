@@ -13,6 +13,7 @@
 		<KeyWord name="append"/>
 		<KeyWord name="as"/>
 		<KeyWord name="at"/>
+		<KeyWord name="attacker"/>
 		<KeyWord name="attribute"/>
 		<KeyWord name="available"/>
 		<KeyWord name="ban"/>
@@ -24,10 +25,14 @@
 		<KeyWord name="blocks"/>
 		<KeyWord name="bossbar"/>
 		<KeyWord name="buffer"/>
+		<KeyWord name="by"/>
 		<KeyWord name="clear"/>
 		<KeyWord name="clone"/>
 		<KeyWord name="color"/>
+		<KeyWord name="controller"/>
 		<KeyWord name="damage"/>
+		<KeyWord name="damage"/>
+		<KeyWord name="data"/>
 		<KeyWord name="data"/>
 		<KeyWord name="datapack"/>
 		<KeyWord name="debug"/>
@@ -35,7 +40,9 @@
 		<KeyWord name="deop"/>
 		<KeyWord name="destroy"/>
 		<KeyWord name="difficulty"/>
+		<KeyWord name="dimension"/>
 		<KeyWord name="disable"/>
+		<KeyWord name="dismount"/>
 		<KeyWord name="displayname"/>
 		<KeyWord name="distance"/>
 		<KeyWord name="effect"/>
@@ -77,10 +84,14 @@
 		<KeyWord name="keep"/>
 		<KeyWord name="kick"/>
 		<KeyWord name="kill"/>
+		<KeyWord name="leasher"/>
 		<KeyWord name="leave"/>
 		<KeyWord name="levels"/>
 		<KeyWord name="list"/>
+		<KeyWord name="list"/>
+		<KeyWord name="loaded"/>
 		<KeyWord name="locate"/>
+		<KeyWord name="loot"/>
 		<KeyWord name="loot"/>
 		<KeyWord name="masked"/>
 		<KeyWord name="master"/>
@@ -90,6 +101,7 @@
 		<KeyWord name="mine"/>
 		<KeyWord name="modifier"/>
 		<KeyWord name="modify"/>
+		<KeyWord name="mount"/>
 		<KeyWord name="move"/>
 		<KeyWord name="msg"/>
 		<KeyWord name="multiply"/>
@@ -104,10 +116,14 @@
 		<KeyWord name="only"/>
 		<KeyWord name="op"/>
 		<KeyWord name="operation"/>
+		<KeyWord name="origin"/>
 		<KeyWord name="outline"/>
+		<KeyWord name="over"/>
+		<KeyWord name="owner"/>
 		<KeyWord name="pardon"/>
 		<KeyWord name="pardon-ip"/>
 		<KeyWord name="particle"/>
+		<KeyWord name="passengers"/>
 		<KeyWord name="perf"/>
 		<KeyWord name="place"/>
 		<KeyWord name="player"/>
@@ -151,6 +167,7 @@
 		<KeyWord name="spreadplayers"/>
 		<KeyWord name="start"/>
 		<KeyWord name="stop"/>
+		<KeyWord name="stop"/>
 		<KeyWord name="stopsound"/>
 		<KeyWord name="storage"/>
 		<KeyWord name="store"/>
@@ -170,6 +187,7 @@
 		<KeyWord name="template"/>
 		<KeyWord name="through"/>
 		<KeyWord name="time"/>
+		<KeyWord name="time"/>
 		<KeyWord name="times"/>
 		<KeyWord name="title"/>
 		<KeyWord name="tm"/>
@@ -181,10 +199,11 @@
 		<KeyWord name="until"/>
 		<KeyWord name="uuids"/>
 		<KeyWord name="value"/>
+		<KeyWord name="vehicle"/>
 		<KeyWord name="visible"/>
 		<KeyWord name="voice"/>
-		<KeyWord name="w"/>
 		<KeyWord name="warning"/>
+		<KeyWord name="weather"/>
 		<KeyWord name="weather"/>
 		<KeyWord name="whitelist"/>
 		<KeyWord name="with"/>
@@ -192,4 +211,3 @@
 		<KeyWord name="xp"/>
 	</AutoComplete>
 </NotepadPlus>
-
