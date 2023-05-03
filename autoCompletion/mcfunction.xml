@@ -76,6 +76,7 @@
 		<KeyWord name="hostile"/>
 		<KeyWord name="if"/>
 		<KeyWord name="in"/>
+		<KeyWord name="infinite"/>
 		<KeyWord name="insert"/>
 		<KeyWord name="item"/>
 		<KeyWord name="jfr"/>
